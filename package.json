@@ -1,0 +1,25 @@
+{
+  "name": "revolutionteam",
+  "version": "1.0.0",
+  "description": "Chat bot RevolutionTeamNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revolution-Team/RevolutionTeam.git"
+  },
+  "keywords": [
+    "chatbot",
+    "revolutionteam",
+    "revolutionshop"
+  ],
+  "author": "juan zamora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Revolution-Team/RevolutionTeam/issues"
+  },
+  "homepage": "https://github.com/Revolution-Team/RevolutionTeam#readme"
+}
